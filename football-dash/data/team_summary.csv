@@ -1,4 +1,4 @@
-team_id,franchisename,w,l,t,pf,pa,leagabrv
+team_id,Team,W,L,T,PF,PA,League
 NFLTeam57,Akron Pros,27,26,11,617,479,NFL
 NFLTeam5,Arizona Cardinals,581,780,40,25248,28952,NFL
 USFLTeam12,Arizona Outlaws,14,22,0,763,726,USFL
