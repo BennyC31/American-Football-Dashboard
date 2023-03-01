@@ -1,0 +1,106 @@
+team_id,franchisename,w,l,t,pf,pa,leagabrv
+NFLTeam57,Akron Pros,27,26,11,617,479,NFL
+NFLTeam5,Arizona Cardinals,581,780,40,25248,28952,NFL
+USFLTeam12,Arizona Outlaws,14,22,0,763,726,USFL
+NFLTeam13,Atlanta Falcons,383,493,6,17786,20015,NFL
+NFLTeam33,Baltimore Colts,1,11,0,213,462,NFL
+NFLTeam25,Baltimore Ravens,243,190,1,9672,8258,NFL
+USFLTeam8,Birmingham Stallions,36,18,0,1318,941,USFL
+NFLTeam46,Boston Bulldogs,31,24,2,677,444,NFL
+NFLTeam55,Brooklyn Lions,3,8,0,60,150,NFL
+NFLTeam35,Brooklyn Tigers,60,100,9,1516,2267,NFL
+NFLTeam17,Buffalo Bills,397,426,2,16749,17401,NFL
+NFLTeam17,Buffalo Bills,65,69,6,2940,2942,AFL
+NFLTeam47,Buffalo Bisons,40,37,12,912,725,NFL
+NFLTeam60,Canton Bulldogs,38,19,11,840,380,NFL
+NFLTeam14,Carolina Panthers,212,237,1,9449,9748,NFL
+NFLTeam9,Chicago Bears,786,624,42,27961,25358,NFL
+USFLTeam6,Chicago Blitz,17,19,0,796,737,USFL
+NFLTeam77,Chicago Tigers,2,5,1,49,63,NFL
+NFLTeam26,Cincinnati Bengals,378,443,4,17337,18048,NFL
+NFLTeam26,Cincinnati Bengals,7,20,1,495,696,AFL
+NFLTeam72,Cincinnati Celts,1,3,0,14,117,NFL
+NFLTeam37,Cincinnati Reds,3,14,1,48,353,NFL
+NFLTeam27,Cleveland Browns,501,524,11,21021,21368,NFL
+NFLTeam27,Cleveland Browns,0,0,0,0,0,AAFC
+NFLTeam70,Cleveland Indians,5,9,2,123,104,NFL
+NFLTeam41,Cleveland Indians,2,8,0,45,137,NFL
+NFLTeam59,Columbus Tigers,13,45,3,376,837,NFL
+NFLTeam2,Dallas Cowboys,550,408,6,22143,19355,NFL
+NFLTeam45,Dayton Triangles,18,51,8,436,916,NFL
+NFLTeam21,Denver Broncos,461,359,6,18258,16751,NFL
+NFLTeam21,Denver Broncos,39,97,4,2761,4000,AFL
+USFLTeam11,Denver Gold,27,27,0,1073,1106,USFL
+NFLTeam10,Detroit Lions,579,702,34,25679,26919,NFL
+NFLTeam53,Detroit Panthers,12,8,4,236,99,NFL
+NFLTeam73,Detroit Tigers,3,8,4,72,191,NFL
+NFLTeam48,Detroit Wolverines,30,16,7,754,427,NFL
+NFLTeam50,Duluth Eskimos,16,20,3,278,289,NFL
+NFLTeam69,Evansville Crimson Giants,3,5,0,95,134,NFL
+NFLTeam40,Frankford Yellow Jackets,70,45,15,1344,1125,NFL
+NFLTeam11,Green Bay Packers,790,590,38,29512,25839,NFL
+NFLTeam61,Hammond Pros,7,28,4,116,515,NFL
+NFLTeam54,Hartford Blues,3,7,0,57,99,NFL
+USFLTeam13,Houston Gamblers,23,13,0,1162,788,USFL
+NFLTeam29,Houston Texans,142,195,1,6961,7868,NFL
+NFLTeam30,Indianapolis Colts,571,566,14,24546,25428,NFL
+USFLTeam15,Jacksonville Bulls,15,21,0,734,857,USFL
+NFLTeam31,Jacksonville Jaguars,189,261,0,9009,9926,NFL
+NFLTeam22,Kansas City Chiefs,434,385,7,17994,17004,NFL
+NFLTeam22,Kansas City Chiefs,87,48,5,3706,2560,AFL
+NFLTeam51,Kansas City Cowboys,12,15,1,187,274,NFL
+NFLTeam65,Kenosha Maroons,0,4,1,12,117,NFL
+NFLTeam23,Las Vegas Raiders,420,400,6,17551,18027,NFL
+NFLTeam23,Las Vegas Raiders,77,58,5,3346,3083,AFL
+NFLTeam52,Los Angeles Buccaneers,6,3,1,67,57,NFL
+NFLTeam24,Los Angeles Chargers,392,429,5,18152,18078,NFL
+NFLTeam24,Los Angeles Chargers,86,48,6,3528,2951,AFL
+USFLTeam10,Los Angeles Express,21,33,0,900,1199,USFL
+NFLTeam8,Los Angeles Rams,604,592,21,26411,25716,NFL
+NFLTeam62,Louisville Colonels,1,12,0,13,365,NFL
+USFLTeam14,Memphis Showboats,18,18,0,749,792,USFL
+NFLTeam18,Miami Dolphins,470,354,2,17871,16392,NFL
+NFLTeam18,Miami Dolphins,15,39,2,941,1456,AFL
+USFLTeam5,Michigan Panthers,22,14,0,851,719,USFL
+NFLTeam56,Milwaukee Badgers,16,27,6,341,565,NFL
+NFLTeam44,Minneapolis Red Jackets,6,33,3,193,620,NFL
+NFLTeam12,Minnesota Vikings,516,425,11,21197,19738,NFL
+NFLTeam74,Muncie Flyers,0,3,0,0,73,NFL
+NFLTeam43,Newark Tornadoes,4,15,5,86,280,NFL
+NFLTeam19,New England Patriots,474,352,0,18827,16454,NFL
+NFLTeam19,New England Patriots,63,68,9,3071,3207,AFL
+USFLTeam3,New Jersey Generals,31,23,0,1162,1127,USFL
+USFLTeam2,New Orleans Breakers,25,29,0,1022,1151,USFL
+NFLTeam15,New Orleans Saints,403,460,5,18456,19422,NFL
+NFLTeam3,New York Giants,715,638,34,26674,25804,NFL
+NFLTeam75,New York Giants - 1921,0,2,0,0,72,NFL
+NFLTeam20,New York Jets,352,472,2,16074,18037,NFL
+NFLTeam20,New York Jets,69,65,6,3238,3419,AFL
+NFLTeam49,New York Yankees,11,16,2,245,353,NFL
+USFLTeam9,Oakland Invaders,29,24,1,1034,1024,USFL
+USFLTeam18,Oklahoma Outlaws,14,22,0,627,864,USFL
+NFLTeam68,Oorang Indians,4,16,0,119,447,NFL
+USFLTeam4,Orlando Renegades,12,42,0,875,1415,USFL
+NFLTeam1,Philadelphia Eagles,608,626,26,25820,25343,NFL
+USFLTeam1,Philadelphia Stars,41,12,1,1226,689,USFL
+USFLTeam16,Pittsburgh Maulers,3,15,0,259,379,USFL
+NFLTeam28,Pittsburgh Steelers,661,571,22,24811,23799,NFL
+NFLTeam42,Providence Steam Roller,41,32,11,708,703,NFL
+NFLTeam58,Racine Tornadoes,15,15,6,285,271,NFL
+NFLTeam64,Rochester Jeffersons,8,27,4,293,617,NFL
+NFLTeam63,Rock Island Independents,26,14,12,691,264,NFL
+USFLTeam17,San Antonio Gunslingers,12,24,0,605,761,USFL
+NFLTeam6,San Francisco 49ers,574,496,14,24273,22396,NFL
+NFLTeam6,San Francisco 49ers,38,14,2,1545,928,AAFC
+NFLTeam7,Seattle Seahawks,383,358,1,16101,15647,NFL
+NFLTeam39,Staten Island Stapletons,14,22,9,340,468,NFL
+NFLTeam67,St. Louis All-Stars,1,4,2,14,39,NFL
+NFLTeam38,St. Louis Gunners,1,2,0,27,61,NFL
+USFLTeam7,Tampa Bay Bandits,35,19,0,1266,1147,USFL
+NFLTeam16,Tampa Bay Buccaneers,299,442,1,13915,16058,NFL
+NFLTeam32,Tennessee Titans,400,424,2,16985,18076,NFL
+NFLTeam32,Tennessee Titans,70,66,4,3363,3075,AFL
+NFLTeam66,Toledo Maroons,8,5,4,129,125,NFL
+NFLTeam76,Tonawanda Kardex,0,1,0,0,45,NFL
+NFLTeam4,Washington Commanders,625,630,29,25496,26182,NFL
+NFLTeam71,Washington Senators,1,2,0,21,43,NFL
